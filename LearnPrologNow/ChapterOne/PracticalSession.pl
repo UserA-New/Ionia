@@ -11,4 +11,4 @@
 % Ask yourself why those peculiar jealousy relations appear out of
 % nowhere!
 %
-% There must be a "logic" behind it.
+% There must be "logic" behind it.
